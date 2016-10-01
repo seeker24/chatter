@@ -5,9 +5,9 @@ URL = require('socket.url')
 JSON = require('dkjson')
 HTTPS = require('ssl.https')
 dofile('utilities.lua')
-You = 171114902
+You = 70545327
 ----config----
-local bot_api_key = "203034641:AAHy5IDaY6JWXEAb-vS1-3QSPU3Nino3gvc" --التوكم هنا
+local bot_api_key = "218693729:AAEIb-WpoVonEl9OTxVBP7SKtS6YxLiw1cQ" --التوكم هنا
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 local function match_pattern(pattern, msg)
 if msg.reply_to_message then
