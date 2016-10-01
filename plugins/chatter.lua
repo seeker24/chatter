@@ -20,7 +20,7 @@ help = [[
 ➖➖➖➖➖➖➖➖➖➖➖
 ]]
 start = [[]]
-You = 171114902
+You = 70545327
 if mico[1] == "start" and not is_add(msg) then
 local keyboard = {}
 
